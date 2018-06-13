@@ -1,0 +1,27 @@
+{
+  "name": "edlist-backend",
+  "version": "1.0.0",
+  "description": "Edlist-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anchal Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "btoa": "^1.2.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.2",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.17",
+    "mongoose": "^5.0.16",
+    "nodemailer": "^4.6.5",
+    "pino": "^4.17.2",
+    "shortid": "^2.2.8",
+    "socket.io": "^2.1.1"
+  }
+}
